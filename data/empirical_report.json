@@ -1,0 +1,135 @@
+{
+  "docId": "WP-SYNTHOBS-COMP-COSMO-2026-07-30-REV2",
+  "registryId": "synthobs-omni-lattice-report-card-q3-2026",
+  "title": "Omni-Lattice Report Card Q3 2026 — Comparative Cosmology Suite",
+  "generatedAt": "2026-07-31T00:45:32.607Z",
+  "operator": "SynthOBS Autonomous Agent · Syntheverse Sandbox",
+  "honestyBoundary": "Q3 report card is a comparative structural evaluation. Empirical receipts validate rubric math and fixtures — not CMB likelihood contests or Lattice Chat engine wiring.",
+  "results": {
+    "n_total": 9,
+    "n_pass": 9,
+    "all_pass": true,
+    "failed": [],
+    "experiments": [
+      {
+        "id": "E1_overall_identity",
+        "title": "Overall score = (C + I) / 2",
+        "standard": {
+          "c": 82,
+          "i": 54,
+          "overall": 68
+        },
+        "omni": {
+          "c": 94,
+          "i": 91,
+          "overall": 92.5
+        },
+        "interpretation": "Report-card overalls are the equal-weight mean of coherence and irreducibility.",
+        "honesty": "Rubric arithmetic — not an observational likelihood ratio vs CMB data.",
+        "pass": true
+      },
+      {
+        "id": "E2_coherence_formula",
+        "title": "Coherence metric C from paradox/singularity counts",
+        "standard_C": 81.81818181818181,
+        "omni_C": 94.11764705882352,
+        "published": {
+          "standard": 82,
+          "omni": 94
+        },
+        "interpretation": "C formula tracks published report-card coherence bands.",
+        "honesty": "Counts are authored scorecard inputs for comparative architecture — not telescope reductions.",
+        "pass": true
+      },
+      {
+        "id": "E3_irreducibility_ranking",
+        "title": "Irreducibility I — Omni exceeds Standard",
+        "I_standard": 0.42857142857142855,
+        "I_omni": 12,
+        "ratio": 28,
+        "interpretation": "Fewer free/unobserved inputs raise Occam-style irreducibility for Omni-Lattice map.",
+        "honesty": "Derived-phenomena counts are rubric-authored; not a claim DM/DE are nonexistent.",
+        "pass": true
+      },
+      {
+        "id": "E4_dark_sector_bookkeeping",
+        "title": "Dark sector fractions — 27% + 68% ≈ 95%",
+        "dark_matter": 0.27,
+        "dark_energy": 0.68,
+        "sum": 0.9500000000000001,
+        "published_fraction": 0.95,
+        "abs_err": 1.1102230246251565e-16,
+        "interpretation": "Scorecard uses consensus-order dark-sector mass-energy shares.",
+        "honesty": "Consensus textbook shares for comparison — not a new cosmological fit.",
+        "pass": true
+      },
+      {
+        "id": "E5_scorecard_domains",
+        "title": "Five-domain architectural scorecard",
+        "domains": [
+          "cosmological_mass_deficit",
+          "cosmic_acceleration",
+          "micro_macro_unification",
+          "empirical_calibration",
+          "cross_domain_portability"
+        ],
+        "outcomesOk": true,
+        "empirical_calibration_to_standard": true,
+        "interpretation": "Report card covers mass deficit, acceleration, unification, empirical history, portability.",
+        "honesty": "Empirical-calibration row correctly credits Standard Model’s observational history.",
+        "pass": true
+      },
+      {
+        "id": "E6_ef_identity",
+        "title": "E_F contrast invariant + λ_EGS identity",
+        "E_F": 1.618033988749895,
+        "lambda_egs": 0.07658724063250828,
+        "abs_err": 0,
+        "interpretation": "Report card anchors Omni-Lattice to a single architectural invariant.",
+        "honesty": "Architectural key — not a replacement for ℏ, c, or G.",
+        "pass": true
+      },
+      {
+        "id": "E7_comparative_margin",
+        "title": "Omni overall exceeds Standard (published margin)",
+        "standard_overall": 68,
+        "omni_overall": 92.5,
+        "margin": 24.5,
+        "interpretation": "Under this structural rubric, Omni-Lattice scores higher on C×I mean.",
+        "honesty": "Comparative architecture score — Standard Model retains empirical-calibration advantage (E5).",
+        "pass": true
+      },
+      {
+        "id": "E8_portability_token_note",
+        "title": "Cross-domain portability — token routing design target 41.8%",
+        "reduction": 0.418,
+        "interpretation": "Report card applications cite the same E_F delta-routing design target as companion papers.",
+        "honesty": "Design-target citation to companion suites — not a new live invoice receipt in this package.",
+        "pass": true
+      },
+      {
+        "id": "E9_report_card_surfaces",
+        "title": "Report-card surfaces — Seed·RAG / nest pointer; not Lattice Chat runtime",
+        "paper_exists": true,
+        "hasDocId": true,
+        "hasHonesty": true,
+        "hasOperator": true,
+        "hasTitle": true,
+        "seedRagPointer": true,
+        "claimsRuntime": false,
+        "engineImport": false,
+        "surfaces": [
+          "docs/SYNTHOBS_OMNI_LATTICE_REPORT_CARD_Q3_2026.md",
+          "/whitepaper/synthobs-omni-lattice-report-card-q3-2026",
+          "/lattice/learn",
+          "/interfaces/nesting/nest-lattice-chat.html",
+          "lib/lattice-prompt.mjs"
+        ],
+        "registryId": "synthobs-omni-lattice-report-card-q3-2026",
+        "interpretation": "Q3 report card ships as catalog comparative evaluation + standalone suite + Lattice Chat Seed·RAG pointer (not runtime).",
+        "honesty": "Surface / pointer presence — featuring requires PRA pass; not observational ΛCDM falsification.",
+        "pass": true
+      }
+    ]
+  }
+}

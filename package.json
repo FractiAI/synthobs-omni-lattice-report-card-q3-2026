@@ -1,0 +1,15 @@
+{
+  "name": "synthobs-omni-lattice-report-card-q3-2026",
+  "private": true,
+  "type": "module",
+  "version": "2026.07.30",
+  "description": "Omni-Lattice Report Card Q3 2026 — comparative cosmology structural evaluation suite",
+  "scripts": {
+    "research": "node scripts/run_empirical_pipeline.mjs"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FractiAI/synthobs-omni-lattice-report-card-q3-2026.git"
+  }
+}

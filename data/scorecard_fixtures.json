@@ -1,0 +1,56 @@
+{
+  "docId": "WP-SYNTHOBS-COMP-COSMO-2026-07-30-REV2",
+  "title": "Omni-Lattice Report Card Q3 2026",
+  "note": "Authored architectural scorecard inputs for comparative C/I metrics. Not CMB likelihood fits.",
+  "standard": {
+    "n_paradox": 1,
+    "n_singularities": 1,
+    "n_domain_intersections": 11,
+    "n_derived_phenomena": 12,
+    "n_p": 26,
+    "n_u": 2
+  },
+  "omni": {
+    "n_paradox": 0,
+    "n_singularities": 1,
+    "n_domain_intersections": 17,
+    "n_derived_phenomena": 12,
+    "n_p": 1,
+    "n_u": 0
+  },
+  "domains": [
+    {
+      "id": "cosmological_mass_deficit",
+      "standard": "Requires ≈27% unobserved physical particles (WIMPs/axions).",
+      "omni": "Derived via 2D→3D E_F holographic boundary dispersion (architectural map).",
+      "outcome": "omni_lattice"
+    },
+    {
+      "id": "cosmic_acceleration",
+      "standard": "10^120 discrepancy between QFT vacuum energy and Λ.",
+      "omni": "Emergent thermodynamic pressure from E_F-scaled expansion (map).",
+      "outcome": "omni_lattice"
+    },
+    {
+      "id": "micro_macro_unification",
+      "standard": "Incompatible: smooth metric breaks down at Planck scales.",
+      "omni": "Unified: spacetime geometry as emergent phase-shadow (architectural).",
+      "outcome": "omni_lattice"
+    },
+    {
+      "id": "empirical_calibration",
+      "standard": "Decades of high-precision collider and CMB mapping.",
+      "omni": "Conceptual alignment; undergoing laboratory interferometric testing.",
+      "outcome": "standard_model"
+    },
+    {
+      "id": "cross_domain_portability",
+      "standard": "Low. QFT, GR, and biology use disjoint mathematics.",
+      "omni": "High. E_F scales across AI tokens, biology, and gravity (architectural).",
+      "outcome": "omni_lattice"
+    }
+  ],
+  "applications": {
+    "enterprise_token_routing_reduction": 0.418
+  }
+}
