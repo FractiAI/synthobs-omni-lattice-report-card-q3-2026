@@ -28,18 +28,15 @@ npm run research:synthobs-omni-lattice-report-card-q3-2026
 
 ## Standalone GitHub
 
-Exportable package for `FractiAI/synthobs-omni-lattice-report-card-q3-2026`.
-**Player 1 / org admin** publishes (cloud-agent `gh` tokens cannot create FractiAI org repos):
+**Live:** https://github.com/FractiAI/synthobs-omni-lattice-report-card-q3-2026 (`main`)
+
+This monorepo folder mirrors that standalone package. Sync updates with:
 
 ```bash
 cd research/synthobs-omni-lattice-report-card-q3-2026
-git init -b main && git add -A && git commit -m "Initial Q3 2026 report card suite"
-gh repo create FractiAI/synthobs-omni-lattice-report-card-q3-2026 --public --source=. --remote=origin --push
+git init -b main && git add -A && git commit -m "Sync Q3 2026 report card suite"
+git push https://github.com/FractiAI/synthobs-omni-lattice-report-card-q3-2026.git HEAD:main
 ```
-
-Until the remote exists, this monorepo folder remains the canonical suite.
-
-Cloud-agent note: `gh` integration tokens cannot `POST` FractiAI org repos. A ready git bundle is produced under `/tmp/cursor/artifacts/synthobs-omni-lattice-report-card-q3-2026.bundle` when the agent prepares the export; Player 1 may also run the create block above from this folder.
 
 ## Honesty
 
